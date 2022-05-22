@@ -47,6 +47,6 @@ After the analysis i.e., counting the total votes cast, the votes each candidate
 <img width="683" alt="python result" src="https://user-images.githubusercontent.com/104597335/169707025-3ece11af-6237-49ef-a90a-1345a24dfeab.png">
 
 
-This script can be re-used for any election by just changing the input csv file and output text file in place of the below code snippet
+This script can be re-used for any election by just changing the input csv file and output text file in place of the below code snippet i.e., change the input to the file_to_load and output of the file_to_save .
 <img width="388" alt="Code_snippet" src="https://user-images.githubusercontent.com/104597335/169707105-9db845a0-8a5e-4cf8-a1b9-bac3e17b428e.png">
 
