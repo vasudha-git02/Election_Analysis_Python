@@ -44,10 +44,9 @@ of the election based on the most popular vote. This is generally done in excel 
 After the analysis i.e., counting the total votes cast, the votes each candidate and county received and the percentage of votes each candidate and county received we can say that Diana Degette is the  winner of the election who received the majority of the votes which is 73% of the total votes. Also we can say that Denver county recived the largest turnover of votes, Below is the image of the output printed into the terminal based on which the above conclusion is made
 
 
+<img width="683" alt="python result" src="https://user-images.githubusercontent.com/104597335/169707025-3ece11af-6237-49ef-a90a-1345a24dfeab.png">
 
 
-This script can be re-used for any election by just changing the input csv file and output text file in the below code.
-    # Add a variable to load a file from a path.
-    file_to_load = os.path.join("Resources", "election_results.csv")
-    # Add a variable to save the file to a path.
-    file_to_save = os.path.join("analysis", "election_results.txt")
+This script can be re-used for any election by just changing the input csv file and output text file in the below code snippet
+<img width="388" alt="Code_snippet" src="https://user-images.githubusercontent.com/104597335/169707105-9db845a0-8a5e-4cf8-a1b9-bac3e17b428e.png">
+
