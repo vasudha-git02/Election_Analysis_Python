@@ -41,7 +41,7 @@ The challenge is to determine the winner of the congressional election in a US p
 of the election based on the most popular vote. This is generally done in excel but to automate the process we have done this in python so that we can use the same code not only in the districts but also senitorial districts and local elections.
 
 ## Challenge Summary
-After the analysis i.e., counting the total votes cast, the votes each candidate and county received and the percentage of votes each candidate and county received we can say that Diana Degette is the  winner of the election who received the majority of the votes which is 73% of the total votes. Also we can say that Denver county recived the largest turnover of votes, Below is the image of the output printed into the terminal based on which the above conclusion is made
+After the analysis i.e., counting the total votes cast, the votes each candidate and county received and the percentage of votes each candidate and county received we can say that **Diana Degette is the  winner of the election who received the majority of the votes which is 73% of the total votes**. Also we can say that **Denver county recived the largest turnover of votes**. Below is the image of the output printed into the terminal based on which the above conclusion is made .
 
 
 <img width="683" alt="python result" src="https://user-images.githubusercontent.com/104597335/169707025-3ece11af-6237-49ef-a90a-1345a24dfeab.png">
